@@ -1,5 +1,5 @@
 # Groceri
-A grocery price tracker for you.
+A grocery price app for you.
 
 Groceri is a geo-smart grocery companion that helps you save without thinking. Scan any barcode to see live prices at nearby stores, compare apples-to-apples (e.g., organic → organic), and get clear deal verdicts (DEAL / SO-SO / NO DEAL) based on price, distance, and timing.
 
